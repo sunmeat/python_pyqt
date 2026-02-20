@@ -1,1 +1,1 @@
-# PythonApplication1
+# MVC: PyQt
